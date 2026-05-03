@@ -37,6 +37,7 @@
           buildInputs = [
             pkgs.nodejs
             pkgs.pnpm
+            pkgs.jq
           ];
         };
       }
